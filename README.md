@@ -1,16 +1,27 @@
-# diagnose_app
+# Diagnose: Symptoms checker
 
-A new Flutter project.
+Diagnose is cross platform mobile application written in Flutter.
+The aim of this project is to assist doctors or anyone in those related field to find disease that includes set of symptoms.
 
-## Getting Started
+## Data Sources
 
-This project is a starting point for a Flutter application.
+Data sources of my Symptoms and Diseases I have taken from another project: [Lab: DHILab Medical Symptom Checker
+](https://github.com/LabinatorSolutions/medical-symptom-checker)
+they were dataset of .jsx files I turned them into JSON type.
+You can find them at:
 
-A few resources to get you started if this is your first Flutter project:
+- **assets/data/Diseases.json**
+- **Symptoms.json**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## IMPORTANT
+this is unfnished project! I haven't completely finished the project yet.
+There are some bugs left at:
+- **lib/results.dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In near future I will fix the last part of the application and publish a complete version of the app with better design and a cleaner code.
+
+## Pictures
+<img src="assets/images/1.png" width="300" >
+<img src="assets/images/2.png" width="300" >
+<img src="assets/images/3.png" width="300" >
+<img src="assets/images/4.png" width="300" >
